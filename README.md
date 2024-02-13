@@ -1,19 +1,20 @@
 <h1 align="center">Hi 👋, I'm Snir Maatuf</h1>
-============================
+
 
 <h3 align="center">A passionate Computer Science student from The Open University</h3>
---------------------------------------------------------------
+
 
 ### 🙋‍♂️ About Me
 I'm currently at my 2'nd year of a Computer Science BSc at The Open University, with a keen interest in software development, especially in Backend. I'm always eager to explore new technologies and apply them in innovative ways to solve real-world problems.
 
 
-
-*   🧠  I'm learning Deepening my understanding of Data Structures and Algorithms
+### 🌱 What I'm Learning
+- Deepening my understanding of Data Structures and Algorithms.
+- Enhancing my skills in web development technologies, with a focus on backend development.
   
 ### 🔧 Languages and Tools
-- **Programming Languages**: Python, JavaScript, Java
-- **Frameworks/Libraries**: React, Node.js
+- **Programming Languages**: Java, JavaScript
+- **Frameworks/Libraries**: Node.js , SpringBoot
 - **Tools**: Git, Docker
 
 - 
